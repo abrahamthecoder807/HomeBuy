@@ -25,5 +25,14 @@ Users can schedule purchases at custom intervals:
 
 * Custom schedules
 
-    Automated Purchase Scheduling.
+- Automated Purchase Scheduling.
 Users can schedule purchase at custom intervals:
+* Places the order 
+
+* Processed the purchase
+
+* Schedules delivery
+
+No manual intervention required.
+
+- Smart Product Substitution

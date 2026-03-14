@@ -9,18 +9,21 @@ Instead of repeatedly shopping for everyday household supplies, users simply con
 
 HomeBuy uses intelligent automation to manage recurring household purchases based on user preferences and schedules.
 
-📅 Automated Purchase Scheduling
+ Automated Purchase Scheduling
 
 Users can schedule purchases at custom intervals:
 
-Weekly
+* Weekly
 
-Monthly
+* Monthly
 
-Quarterly
+* Quarterly
 
-Twice a year
+* Twice a year
 
-Once a year
+* Once a year
 
-Custom schedules
+* Custom schedules
+
+    Automated Purchase Scheduling.
+Users can schedule purchase at custom intervals:
